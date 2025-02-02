@@ -1,10 +1,30 @@
 // Lista de invitados con sus cupos asignados
 const invitados = {
-    "Makinson dos Santos": 1,
-    "Sandra dos Santos Gómez": 2,
-    "Jazmín Rivero": 3,
-    "Carina Ramos": 4,
-    "Loy Gomez": 1
+    "Makinson Dos Santos": 1,
+"Gisel Gomez": 1,
+"Sandra Dos Santos": 2,
+"Mirtha Gomez": 1,
+"Celia Da Rosa": 2,
+"Marcos Ramos": 1,
+"Hugo Mello": 3,
+"Delia Irigaray": 2,
+"Nelly Lemos": 2,
+"Carina Ramos": 4,
+"Lorena Wilkins": 5,
+"Rosana Ramos": 5,
+"Isaura Frías": 1,
+"Teresa Lemos": 1,
+"Mirian Lemos": 3,
+"Cecilia Buere": 3,
+"Jorge Buere": 1,
+"Marcos Buere": 3,
+"Mireya Lemos": 1,
+"Yane Lemos": 3,
+"Isabel Lemos": 2,
+"María Pereira": 1,
+"Marcia Lemos": 2,
+"Gustavo Lemos": 5,
+"Sofia Gau": 1
 };
 
 const CLAVE_ADMIN = "Luciana15";  // 🔒 Cambia esto por tu contraseña
